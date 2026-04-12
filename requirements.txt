@@ -1,0 +1,12 @@
+aiogram
+qdrant-client
+beautifulsoup4
+lxml
+requests
+dateparser
+httpx
+aiohttp
+python-dotenv
+pydantic
+pydantic-settings
+fastembed
